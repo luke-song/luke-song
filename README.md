@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **luke-song/luke-song** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=luke-song🌙&fontSize=60)
+
+
+
+### 👨‍💻 About Me
+  * 🎓 Study Software Engineering at San Jose State University
+  * 😀 Passionate Front-end developer. Blockchain enthusiast
+  * 🌱 I’m currently learning Gatsby/GraphQL, NFT
+  * 👯 I’m looking to collaborate on Ganash/React/Solidity Project
+
+
+
+
+<a href="https://github.com/luke-song">
+<img height=160 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=luke-song" alt="Luke's GitHub Stats" title="GitHub Streak" />
+<img height=160 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luke-song&layout=compact" alt="Luke's Github Most Used Languages">
+</a>
+ <br>
+ <br />
