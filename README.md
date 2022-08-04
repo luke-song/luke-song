@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ### 👨‍💻 About Me
   * 🎓 Study Software Engineering at San Jose State University
   * 😀 Passionate Front-end developer. Blockchain enthusiast
-  * 🌱 I’m currently learning GraphQL, TypeScript
-  * 👯 I’m looking to collaborate on Next/React/TypeScript/Three/ERC-721 Project
+  * 🌱 I’m currently learning TypeScript, Rust
+  * 👯 I’m looking to collaborate on a smart contract for NFT digital diploma.
 
 
 
