@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 ### 👨‍💻 About Me
   * 🎓 Study Software Engineering at San Jose State University
   * 😀 Passionate Front-end developer. Blockchain enthusiast
-  * 🌱 I’m currently learning TypeScript, Rust
-  * 👯 I’m looking to collaborate on a smart contract for NFT digital diploma.
+  * I am currently a 
+  * Rustacean 🦀 - learning Rust for sol-did
+  * Docusaurus 🦖 - writing documentation for Gateway v2
+  * Ninja 🥷 - developing with Chakra UI/ React
+  
 
 
 
