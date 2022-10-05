@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ### 👨‍💻 About Me
   * 🎓 Study Software Engineering at San Jose State University
   * 😀 Passionate Front-end developer. Blockchain enthusiast
-  * I am currently a 
-  * Rustacean 🦀 - learning Rust for sol-did
-  * Docusaurus 🦖 - writing documentation for Gateway v2
-  * Ninja 🥷 - developing with Chakra UI/ React
+  * 🦀 Rust Solana Program Developer
+  * 🥷 Chakra UI/Tailwind CSS Ninja
+  * 💬 Ask me about any projects I have worked on below. I will be happy to discuss every details.
+  * 📫 Best way to reach me: hyeonminsong7@gmail.com [or call me at 408-218-5349]
   <a href="https://www.linkedin.com/in/luke-song/">
   <img
     alt="Linkedin"
