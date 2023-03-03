@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   />
 </a>
 
-## Javascript Projects <iframe src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" width="480" height="429" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> <br>
+## Javascript Projects <br>
 Cms-On-Chain
 https://632cf5989b5e1b01e4c6f25a--decentra-cms.netlify.app/ <br>
 Pistachio
