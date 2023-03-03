@@ -70,7 +70,6 @@ Discourse
 https://github.com/luke-song/discourse/tree/main <br>
 
 <a href="https://github.com/luke-song">
-<img height=160 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=luke-song" alt="Luke's GitHub Stats" title="GitHub Streak" />
 </a>
  <br>
  <br />
