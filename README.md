@@ -61,11 +61,11 @@ Pseudo Pass
 Bstory
 [private] https://github.com/luke-song/bstory <br>
 
-## Flutter Projects
+## Flutter Projects <img src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif"/> <br>
 Appointzen Frontend
 https://github.com/luke-song/doctor-appointment-flutter <br>
 
-## Open-Source Projects <br>
+## Open-Source Projects <img src="https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif"/>  <br>
 Discourse
 https://github.com/luke-song/discourse/tree/main <br>
 
