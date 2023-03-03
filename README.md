@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   />
 </a>
 
-## Javascript Projects <br>
+## Javascript Projects <img height="40" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/> <br>
 Cms-On-Chain
 https://632cf5989b5e1b01e4c6f25a--decentra-cms.netlify.app/ <br>
 Pistachio
