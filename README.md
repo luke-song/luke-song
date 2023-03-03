@@ -14,15 +14,11 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=luke-song&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=luke-song👨‍💻&fontSize=60)
 
-
-
-### 👨‍💻 About Me
-  * 🎓 Studying Software Engineering at San Jose State University
-  * 😀 Passionate Front-end developer. Blockchain enthusiast
-  * 🦀 Rust Solana Program Developer
-  * 🥷 Chakra UI/Tailwind CSS Ninja
+### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50"> About Me
+  <!-- * 🎓 Studying Software Engineering at San Jose State University -->
+  * 🥷 Passionate Coding Ninja
   * 💬 Ask me about any projects I have worked on below. I will be happy to discuss every details.
   * 📫 Best way to reach me: hyeonminsong7@gmail.com [or call me at 408-218-5349]
   <a href="https://www.linkedin.com/in/luke-song/">
@@ -39,7 +35,9 @@ Here are some ideas to get you started:
   />
 </a>
 
-## Javascript Projects <img align='right' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/> <br>
+<a href="#"><img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200 " height="200" /></a>
+</a>
+## Javascript Projects <img height="40" src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif"/> <br>
 Cms-On-Chain
 https://632cf5989b5e1b01e4c6f25a--decentra-cms.netlify.app/ <br>
 Pistachio
@@ -61,7 +59,9 @@ Pseudo Pass
 Bstory
 [private] https://github.com/luke-song/bstory <br>
 
-## Flutter Projects <img align='right' src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif"/> <br>
+<a href="#"><img align="right" src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="200 " height="200"  /></a>
+</a>
+## Flutter Projects <img height="40" src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif"/> <br>
 Appointzen Frontend
 https://github.com/luke-song/doctor-appointment-flutter <br>
 
