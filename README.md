@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   />
 </a>
 
-## Javascript Projects <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/> <br>
+## Javascript Projects <img align='right' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/> <br>
 Cms-On-Chain
 https://632cf5989b5e1b01e4c6f25a--decentra-cms.netlify.app/ <br>
 Pistachio
@@ -61,11 +61,11 @@ Pseudo Pass
 Bstory
 [private] https://github.com/luke-song/bstory <br>
 
-## Flutter Projects <img src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif"/> <br>
+## Flutter Projects <img align='right' src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif"/> <br>
 Appointzen Frontend
 https://github.com/luke-song/doctor-appointment-flutter <br>
 
-## Open-Source Projects <img src="https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif"/>  <br>
+## Open-Source Projects <img align='right' src="https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif"/>  <br>
 Discourse
 https://github.com/luke-song/discourse/tree/main <br>
 
