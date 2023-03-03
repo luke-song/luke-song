@@ -65,7 +65,7 @@ Bstory
 Appointzen Frontend
 https://github.com/luke-song/doctor-appointment-flutter <br>
 
-## Open-Source Projects <img align='right' src="https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif"/>  <br>
+## Open-Source Projects  <br>
 Discourse
 https://github.com/luke-song/discourse/tree/main <br>
 
