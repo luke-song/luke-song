@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50"> About Me
   <!-- * 🎓 Studying Software Engineering at San Jose State University -->
-  * 🥷 Passionate Coding Ninja
-  * 💬 Ask me about any projects I have worked on below. I will be happy to discuss every details.
-  * 📫 Best way to reach me: hyeonminsong7@gmail.com [or call me at 408-218-5349]
+  *  Front End Engineer
+  *  Ask me about any projects I have worked on below. I will be happy to discuss every details.
+  *  Best way to reach me: hyeonminsong7@gmail.com [or call me at 408-218-5349]
   <a href="https://www.linkedin.com/in/luke-song/">
   <img
     alt="Linkedin"
