@@ -60,7 +60,6 @@ https://github.com/luke-song/doctor-appointment-flutter <br>
 Discourse
 https://github.com/luke-song/discourse/tree/main <br>
 
-<a href="#"><img align="right" src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="200 " height="200"  /></a>
 
 
 <a href="https://github.com/luke-song">
