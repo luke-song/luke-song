@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=grey&height=200&section=header&text=luke-song👨‍💻&fontSize=60&textColor=ffffff)
-
 ### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50"> About Me
   <!-- * 🎓 Studying Software Engineering at San Jose State University -->
   * 🥷 Passionate Coding Ninja
