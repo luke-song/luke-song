@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <a href="#"><img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200 " height="200" /></a>
 </a>
-## Javascript Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/> <br>
+## Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/> <br>
 Cms-On-Chain
 https://632cf5989b5e1b01e4c6f25a--decentra-cms.netlify.app/ <br>
 Pistachio
@@ -55,16 +55,13 @@ Pseudo Pass
 [private] https://github.com/orgs/PseudoPass/repositories <br>
 Bstory
 [private] https://github.com/luke-song/bstory <br>
-
-<a href="#"><img align="right" src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="200 " height="200"  /></a>
-</a>
-## Flutter Projects <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"/> <br>
 Appointzen Frontend
 https://github.com/luke-song/doctor-appointment-flutter <br>
-
-## Open-Source Projects  <br>
 Discourse
 https://github.com/luke-song/discourse/tree/main <br>
+
+<a href="#"><img align="right" src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="200 " height="200"  /></a>
+
 
 <a href="https://github.com/luke-song">
 </a>
