@@ -34,32 +34,7 @@ Here are some ideas to get you started:
 
 <a href="#"><img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200 " height="200" /></a>
 </a>
-## Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/> <br>
-Cms-On-Chain
-https://632cf5989b5e1b01e4c6f25a--decentra-cms.netlify.app/ <br>
-Pistachio
-https://github.com/luke-song/Pistachio </br>
-Philter
-https://github.com/philter133/philter <br>
-SpotMeSolutions
-https://github.com/luke-song/SpotMeApplication <br>
-Identity Analytics
-https://github.com/luke-song/identity-analytics <br>
-OpenCollection.io
-[private] https://opencollection.io/ <br>
-Song_LLC
-[private] https://www.songllc.org/ <br>
-Appointzen Backend
-[private] https://github.com/luke-song/doctor-appointment-backend <br>
-Pseudo Pass
-[private] https://github.com/orgs/PseudoPass/repositories <br>
-Bstory
-[private] https://github.com/luke-song/bstory <br>
-Appointzen Frontend
-https://github.com/luke-song/doctor-appointment-flutter <br>
-Discourse
-https://github.com/luke-song/discourse/tree/main <br>
-
+## Always Coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/> <br>
 
 
 <a href="https://github.com/luke-song">
