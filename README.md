@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 
 <a href="#"><img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200 " height="200" /></a>
 </a>
-## Always Coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/> <br>
 
 
 <a href="https://github.com/luke-song">
