@@ -32,9 +32,6 @@ Here are some ideas to get you started:
   />
 </a>
 
-<a href="#"><img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200 " height="200" /></a>
-</a>
-
 
 <a href="https://github.com/luke-song">
 </a>
