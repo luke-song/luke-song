@@ -14,20 +14,13 @@ Here are some ideas to get you started:
 -->
   <!-- * 🎓 Studying Software Engineering at San Jose State University -->
   *  Front End Engineer
-  *  Ask me about any projects I have worked on below. I will be happy to discuss every details.
-  *  Best way to reach me: hyeonminsong7@gmail.com [or call me at 408-218-5349]
+  *  hyeonminsong7@gmail.com
   <a href="https://www.linkedin.com/in/luke-song/">
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a>
-</a>
-<a href="https://discord.com/users/lukesong.eth#2181">
-  <img
-    alt="Discord"
-    src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-  />
 </a>
 
 
