@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50"> About Me
   <!-- * 🎓 Studying Software Engineering at San Jose State University -->
   *  Front End Engineer
   *  Ask me about any projects I have worked on below. I will be happy to discuss every details.
