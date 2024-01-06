@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   <!-- * 🎓 Studying Software Engineering at San Jose State University -->
-Front End Engineer
-hyeonminsong7@gmail.com
+<h1>Front End Engineer</h1>
+<p>hyeonminsong7@gmail.com</p>
   <a href="https://www.linkedin.com/in/luke-song/">
   <img
     alt="Linkedin"
