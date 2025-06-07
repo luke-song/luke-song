@@ -9,14 +9,20 @@ Hi, there! I am Luke: Ex-founding Engineer & Freelance Software Engineer. This i
 
 - **Gateway Protocol v2 (Identity.com)**  
   Developed and launched a decentralized, semi-trustless protocol for managing Gateway Passes, including Rust smart contracts, TypeScript client service, and full documentation. Achieved 100% unit test coverage.  
-  _Stack: Rust, TypeScript, Mocha, Jest_  
-  [Identity.com Open Source](https://github.com/identity-com/on-chain-identity-gateway)
+  _Stack: Rust, TypeScript, Mocha, Jest_
+
+  [Identity.com Open Source](https://github.com/identity-com)
+
+  [Identity.com Gateway Protocol V0.2 Open Source](https://github.com/identity-com/on-chain-identity-gateway)
+
+  [Identity.com Docs Open Source](https://github.com/identity-com/docs)
 
 ## 👨‍💻 Projects
 
 - **IDENFTs (Public)**  
    Built an NFT marketplace enabling IPFS uploads and blockchain data retrieval via API. Implemented smart contract integration and IPFS storage functionality for NFT management.  
    _Stack: Solidity, Web3.js, IPFS, React_
+
   [Idenfts Open Source](https://github.com/luke-song/idenfts)
 
 - **Smartrip.ai**  
