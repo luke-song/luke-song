@@ -1,8 +1,3 @@
-<!-- Banner image -->
-<p align="center">
-  <img src="banner.png" alt="Banner" width="100%" />
-</p>
-
 Hi, there! I am Luke: Ex-founding Engineer & Freelance Software Engineer. This is my profile page to outline some of the things I'm working on today.
 
 ## 👨‍💻 Open Source
