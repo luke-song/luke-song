@@ -1,6 +1,6 @@
 Hi, there! I am Luke: Ex-founding Engineer & Freelance Software Engineer. Here's what I have worked on.
 
-## 👨‍💻 Projects
+## Projects
 
 - **IDENFTs (Public)**  
    Built an NFT marketplace enabling IPFS uploads and blockchain data retrieval via API. Implemented smart contract integration and IPFS storage functionality for NFT management.  
