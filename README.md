@@ -6,8 +6,6 @@ Hi, there! I am Luke: Ex-founding Engineer & Freelance Software Engineer. Here's
    Built an NFT marketplace enabling IPFS uploads and blockchain data retrieval via API. Implemented smart contract integration and IPFS storage functionality for NFT management.  
    _Stack: Solidity, Web3.js, IPFS, React_
 
-  [Idenfts Open Source](https://github.com/luke-song/idenfts)
-
 - **Smartrip.ai**  
   AI-powered travel concierge integrating booking, flights, and activities into one seamless platform. Led full-stack product development, UI refinement, and a product pivot to a conversational chat-based interface.  
   _Stack: Figma, Tailwind CSS, ShadCN, TypeScript, React, Next.js, Python (Flask), MongoDB, LLAMA_
