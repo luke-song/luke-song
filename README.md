@@ -12,7 +12,7 @@ Hi, there! I am Luke: Ex-founding Engineer & Freelance Software Engineer. Here's
   AI-powered travel concierge integrating booking, flights, and activities into one seamless platform. Led full-stack product development, UI refinement, and a product pivot to a conversational chat-based interface.  
   _Stack: Figma, Tailwind CSS, ShadCN, TypeScript, React, Next.js, Python (Flask), MongoDB, LLAMA_
 
-- **KHProduction**  
+- **KHProduction/Poppix**  
   Designed and built a mobile-first app and SEO-optimized site with CRM, handling branding, prototyping, UI, and implementation from scratch. Helped validate product-market fit.  
   _Stack: Figma, Tailwind CSS, TypeScript, React, Next.js_
 
