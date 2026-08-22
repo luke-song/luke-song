@@ -2,7 +2,7 @@ Hi, there! I am Luke, a product engineer who designs the screen and then ships i
 
 Most of my work sits where design and engineering overlap. I draw the interface in Figma, build it in React or React Native, and own the backend it talks to. Today I am building AWOD solo and taking founding software engineering work.
 
-**[Portfolio](https://hyeongdesign.vercel.app)** · San Jose, CA
+· San Jose, CA
 
 ## Now
 
