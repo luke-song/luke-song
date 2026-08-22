@@ -16,8 +16,8 @@ Most of my work sits where design and engineering overlap. I draw the interface 
   Cloud post-production for film and creative teams: GPU workstations, shared storage, and review tools in the browser, secure enough for major studios (SOC 2, TPN). I shipped 40+ production features across the platform. Our product designer and I built the mobile design file together, then I built the app from it, so the file and the shipped product never drifted into two different products.  
   _Stack: Figma, TypeScript, React, Next.js, Tailwind CSS_
 
-- **Bottlely** (co-founder)  
-  Chat-native ordering for bars. A bartender texts what they need mid-shift, spell-tolerant retrieval resolves it against the catalog, and inventory updates itself. We piloted it in a real venue at 95%+ order accuracy, cutting manual entry by around 80%.  
+- **[Bottlely](https://bottlely.vercel.app)** (co-founder, now Ventory)  
+  Chat-native ordering for bars. A bartender texts what they need mid-shift, spell-tolerant retrieval resolves it against the catalog, and inventory updates itself. We piloted it in a real venue at 95%+ order accuracy, cutting manual entry by around 80%. That inventory layer is where we are taking it next, as Ventory.  
   _Stack: TypeScript, Next.js, Supabase, OpenAI_
 
 - **[Smartrip.ai](https://smartrip.ai)** (ex-founding engineer)  
