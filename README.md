@@ -24,14 +24,14 @@ Most of my work sits where design and engineering overlap. I draw the interface 
   AI travel concierge for booking, flights, and activities. I led the frontend rebuild, and we replaced the trip-request form with a conversation, because the form was asking users for answers they did not have yet.  
   _Stack: Figma, Tailwind CSS, ShadCN, TypeScript, React, Next.js, Python (Flask), MongoDB, LLAMA_
 
-- **IDENFTs** (public)  
-  NFT marketplace with IPFS uploads and on-chain data retrieval through an API, plus smart contract integration for minting and managing NFTs.  
-  _Stack: Solidity, Web3.js, IPFS, React_
-
 <details>
 <summary><b>Earlier work</b></summary>
 
 <br>
+
+- **IDENFTs** (public)  
+  NFT marketplace with IPFS uploads and on-chain data retrieval through an API, plus smart contract integration for minting and managing NFTs.  
+  _Stack: Solidity, Web3.js, IPFS, React_
 
 - **KHProduction / Poppix**  
   Designed and built a mobile-first app and an SEO-optimized site with a CRM, handling branding, prototyping, UI, and implementation from scratch. Helped validate product-market fit.  
