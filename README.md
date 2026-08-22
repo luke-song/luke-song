@@ -12,7 +12,7 @@ Most of my work sits where design and engineering overlap. I draw the interface 
 
 ## Selected work
 
-- **[CREE8](https://cree8.app)** (Jun 2025 to Jul 2026)  
+- **[CREE8](https://cree8.io)** (Jun 2025 to Jul 2026)  
   Cloud post-production for film and creative teams: GPU workstations, shared storage, and review tools in the browser, secure enough for major studios (SOC 2, TPN). I shipped 40+ production features across the platform. Our product designer and I built the mobile design file together, then I built the app from it, so the file and the shipped product never drifted into two different products.  
   _Stack: Figma, TypeScript, React, Next.js, Tailwind CSS_
 
