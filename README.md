@@ -1,6 +1,6 @@
 Hi, there! I am Luke, a product engineer who designs the screen and then ships it.
 
-Most of my work sits where design and engineering overlap. I draw the interface in Figma, build it in React or React Native, and own the backend it talks to. Today I am building AWOD solo and taking founding software engineering work.
+Most of my work sits where design and engineering overlap. I draw the interface in Figma, build it in React or React Native, and own the backend it talks to. Today I am building AWOD and FRIGG solo and taking founding software engineering work.
 
 · San Jose, CA
 
@@ -9,6 +9,10 @@ Most of my work sits where design and engineering overlap. I draw the interface 
 - **[AWOD](https://www.awod.website)** (solo, live on TestFlight)  
   An AI workout coach for iOS. I built it because I train, and every app I tried programmed for somebody else. The coach reads your actual program and swap history, so "why this exercise" gets a specific answer instead of a generic one. Korean and English throughout, and a type scale rebuilt as tokens so every screen survives 300%+ Dynamic Type.  
   _Stack: React Native, Expo Router, TypeScript, Supabase Edge Functions, OpenAI_
+
+- **[FRIGG](https://www.frigg.website)** (solo, live, paid)  
+  A voice-first coding companion for macOS. You talk through the problem while you code and it answers back, so the rubber duck finally says something. Twenty quiet seconds and the window turns into a cat in the corner, still listening; Recap turns the session into notes and a standup draft. A Detectable switch hides it from screen shares when you need that. Free with your own OpenAI key, or Pro on hosted keys through Stripe.  
+  _Stack: Electron, React, TypeScript, OpenAI Realtime API, Supabase, Stripe, Vercel_
 
 ## Selected work
 
