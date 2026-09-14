@@ -2,11 +2,11 @@ Hi, there! I am Luke, a product engineer who designs the screen and then ships i
 
 Most of my work sits where design and engineering overlap. I draw the interface in Figma, build it in React or React Native, and own the backend it talks to. Today I am building AWOD and FRIGG solo and taking founding software engineering work.
 
-· San Jose, CA
+· San Jose, CA · **[lukesong.website](https://www.lukesong.website)**
 
 ## Now
 
-- **[AWOD](https://www.awod.website)** (solo, live on TestFlight)  
+- **[AWOD](https://apps.apple.com/app/awod/id6801866462)** (solo, on the App Store)  
   An AI workout coach for iOS. I built it because I train, and every app I tried programmed for somebody else. The coach reads your actual program and swap history, so "why this exercise" gets a specific answer instead of a generic one. Korean and English throughout, and a type scale rebuilt as tokens so every screen survives 300%+ Dynamic Type.  
   _Stack: React Native, Expo Router, TypeScript, Supabase Edge Functions, OpenAI_
 
@@ -61,7 +61,7 @@ Most of my work sits where design and engineering overlap. I draw the interface 
 
 ## Reach me
 
-Hiring a product engineer, or need one screen built properly? [Email me](mailto:hyeonminsong7@gmail.com) or [book a call](https://calendly.com/hyeonminsong7/one-on-one).
+Hiring a product engineer, or need one screen built properly? See the work at **[lukesong.website](https://www.lukesong.website)**, then [email me](mailto:hyeonminsong7@gmail.com) or [book a call](https://calendly.com/hyeonminsong7/one-on-one).
 
 > _"If you cannot fail, you cannot learn. As you consider building your own minimum viable product, let this simple rule suffice: remove any feature, process, or effort that does not contribute directly to the learning you seek."_  
 > Eric Ries, The Lean Startup
